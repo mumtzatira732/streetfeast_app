@@ -1,0 +1,46 @@
+name: streetfeast_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.6
+  cloud_firestore: ^4.15.6
+  geolocator: ^11.0.0
+  google_maps_flutter: ^2.5.0
+  firebase_storage: ^11.2.7
+  path: ^1.9.0
+  image_picker: ^1.0.4
+  flutter_image_compress: ^2.1.0
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/bg.jpg
+    - images/asam_pedas.jpg
+    - images/fix.jpg
+    - images/nyonya.jpg
+    - images/putra.jpg
+    - images/botanist.jpg
+    - images/tepi.jpeg
+    - images/sosej.jpg
+    - images/farid.jpg
+    - images/khraw.jpg
+    - images/hidayah.jpg
+    - images/melaka_bg.jpg

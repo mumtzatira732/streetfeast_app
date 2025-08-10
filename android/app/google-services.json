@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823801819905",
+    "project_id": "streetfeast-b38c0",
+    "storage_bucket": "streetfeast-b38c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823801819905:android:774d674ed1e82ea1786100",
+        "android_client_info": {
+          "package_name": "com.example.streetfeast_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABozupTFrsvGmPplOZyrFb56owBbZ8ZRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
